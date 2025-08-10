@@ -17,4 +17,4 @@ Mind+ supports exploring, browsing, and listening voice content for you, this im
 [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/mind-plus-1b25e832d6ee80fc80e5c678f2741516
+https://phantrungviet.notion.site/mind-plus-1b25e832d6ee80fc80e5c678f2741516
